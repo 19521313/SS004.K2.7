@@ -1,0 +1,5 @@
+﻿  Game_Snack.cpp
+C:\Users\Admin\Downloads\Yến\Game_Snack.cpp(36,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Admin\Downloads\Yến\Game_Snack.cpp(168,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Downloads\Yến\Game_Snack.cpp(157): warning C4715: 'KtraThua': not all control paths return a value
+  Snake2.0.vcxproj -> C:\Users\Admin\Downloads\Kỹ Năng Nghề Nghiệp\SS004.K2.7\Code\Snake2.0\Snake2.0\Debug\Snake2.0.exe
