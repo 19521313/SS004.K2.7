@@ -153,23 +153,23 @@ void VeTuong()
     for (int x = TUONG_TRAI; x <= TUONG_PHAI; x++)
     {
         gotoXY(x, TUONG_TREN);
-        cout << (char)61;
+        cout << (char)220;
     }
     for (int y = TUONG_TREN + 1; y <= TUONG_DUOI; y++)
     {
         gotoXY(TUONG_TRAI, y);
-        cout << (char)95;
+        cout << (char)221;
 
     }
     for (int x = TUONG_TRAI; x <= TUONG_PHAI; x++)
     {
         gotoXY(x, TUONG_DUOI);
-        cout << (char)61;
+        cout << (char)223;
     }
     for (int y = TUONG_TREN + 1; y <= TUONG_DUOI - 1; y++)
     {
         gotoXY(TUONG_PHAI, y);
-        cout << (char)95;
+        cout << (char)222;
     }
 }
 
